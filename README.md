@@ -1,14 +1,14 @@
 # Password Generator
 
-password_generator_gui.pyw
+password_generator_gui.pyw -
 Generates password and auto copies it from GUI
 does not open a console
 
-password_generator_gui.py
+password_generator_gui.py -
 Generates password and auto copies it from GUI
 opens up a console
 
-password.py
+password.py -
 Just prints a random password in CLI
 
 Generates a safe 40 digits password with python.
