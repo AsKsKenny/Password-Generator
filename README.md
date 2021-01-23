@@ -11,6 +11,9 @@ opens up a console
 password.py -
 Just prints a random password in CLI
 
+
+
+
 Generates a safe 40 digits password with python.
 
 Using following chars:
