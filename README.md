@@ -6,14 +6,21 @@ Using following chars:
 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 
-password_generator_gui.py
+1:)
+password_generator.pyw
+Generates password and auto copies it from GUI 
+does not open a console 
 
-Generates Password and auto copies it from GUI 
+
+2:)
+password_generator_gui.py
+Generates password and auto copies it from GUI 
+opens up a console
+
 
 
 password.py
-
-Just Prints a 40 digits password to Command Line
+Just prints a 40 digits password to Command Line
 
 
 Dependencies:
