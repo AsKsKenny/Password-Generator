@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 
 Generates a safe 40 digits password with python.
 
