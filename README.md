@@ -14,3 +14,17 @@ Generates Password and auto copies it from GUI
 password.py
 
 Just Prints a 40 digits password to Command Line
+
+
+Dependencies:
+
+-tkinter
+ Install: pip3 install pytk
+ 
+-pyperclip
+ Install: pip install pyperclip
+
+-secrets
+ Install: pip install secrets
+
+
